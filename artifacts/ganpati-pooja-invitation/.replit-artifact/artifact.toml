@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Ganpati Pooja Invitation"
+description = "A mobile-first animated digital Ganpati Pooja invitation that brings a traditional cream-and-antique-gold invitation card to life with petals, modaks, diyas, sparkles, and the supplied Ganpati idol."
+version = "1.0.0"
+id = "artifacts/ganpati-pooja-invitation"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23901
+
+[services.development]
+run = "pnpm --filter @workspace/ganpati-pooja-invitation run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ganpati-pooja-invitation", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/ganpati-pooja-invitation/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23901"
+BASE_PATH = "/"

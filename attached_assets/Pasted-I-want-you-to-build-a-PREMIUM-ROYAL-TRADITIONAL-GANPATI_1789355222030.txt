@@ -1,0 +1,485 @@
+I want you to build a PREMIUM, ROYAL, TRADITIONAL GANPATI AAGMAN INVITATION WEBSITE using the 3 attached images.
+
+IMPORTANT: STUDY ALL 3 IMAGES CAREFULLY BEFORE BUILDING.
+
+IMAGE 1 = MAIN INVITATION DESIGN
+IMAGE 2 = REFERENCE ONLY FOR THE ROYAL GOLDEN MARATHI TYPOGRAPHY
+IMAGE 3 = THE EXACT GANPATI IDOL THAT MUST BE USED
+
+========================================================
+MOST IMPORTANT DESIGN REQUIREMENT
+========================================================
+
+DO NOT create a red, maroon, dark, or completely different opening screen.
+
+The OPENING SCREEN must use the SAME VISUAL LANGUAGE AND BACKGROUND AS IMAGE 1.
+
+I want the opening to feel like the invitation itself is coming alive.
+
+Think of it as:
+
+IMAGE 1 → transformed into a beautiful animated digital invitation.
+
+The opening screen should use:
+- Same cream / ivory background
+- Same antique-gold color
+- Same thin golden borders
+- Same traditional floral decorations
+- Same lotus/flower style
+- Same Indian ornamental patterns
+- Same elegant luxury atmosphere
+- Same overall visual tone
+
+DO NOT introduce a new color theme for the opening.
+
+The entire website must visually feel like ONE invitation.
+
+========================================================
+OPENING SCREEN
+========================================================
+
+When the visitor first opens the website, show a beautiful animated version of the invitation background.
+
+Initially keep the central area elegant and clean.
+
+At the center, reveal:
+
+"गणपती बाप्पा मोरया"
+
+This is the opening title.
+
+The typography should be inspired by IMAGE 2 but adapted perfectly to the cream/gold design of IMAGE 1.
+
+Make it:
+- Royal golden
+- Metallic gold
+- Embossed
+- Elegant
+- Traditional Marathi/Devanagari
+- Slightly 3D
+- Soft golden shadow
+- Subtle golden glow
+- Premium wedding-invitation quality
+
+DO NOT use a normal Devanagari font.
+
+The text should feel like the gold lettering in IMAGE 2, but its background MUST match IMAGE 1.
+
+========================================================
+OPENING ANIMATION
+========================================================
+
+I want the opening to feel magical and premium.
+
+Sequence:
+
+1. The cream invitation background slowly fades in.
+
+2. The golden ornamental borders gently appear.
+
+3. Small golden sparkles begin appearing around the screen.
+
+4. Very subtle flower petals begin falling from the top.
+
+5. "गणपती बाप्पा मोरया" slowly appears in the center.
+
+6. The golden letters reveal themselves with a smooth shimmer.
+
+7. A soft golden light passes across the text.
+
+8. More petals gently fall.
+
+9. Small traditional MODAKS begin appearing as part of the animation.
+
+10. The opening title remains visible for a moment.
+
+11. Then smoothly transition into the full invitation.
+
+The animation should feel:
+
+ROYAL
+DEVOTIONAL
+FESTIVE
+ELEGANT
+MAGICAL
+
+NOT childish.
+NOT cartoonish.
+NOT flashy.
+
+========================================================
+MODAK ANIMATION
+========================================================
+
+I specifically want a beautiful MODAK animation.
+
+Use traditional Indian modak illustrations/elements.
+
+The modaks can gently:
+- Float
+- Fall slowly
+- Appear and disappear
+- Move slightly from side to side
+- Have a subtle golden glow
+
+You can have a few modaks gently entering the screen during the opening.
+
+IMPORTANT:
+
+Do not let the modaks cover the main text or Ganpati.
+
+They should act as decorative festive elements.
+
+Keep them elegant and realistic/traditional.
+
+Do NOT make hundreds of modaks.
+
+Use a tasteful amount.
+
+========================================================
+PETALS FALLING LIKE RAIN
+========================================================
+
+I want flower petals falling from the top of the screen, almost like a gentle floral rain.
+
+Use petals matching the flowers in IMAGE 1.
+
+Prefer:
+- Pink lotus petals
+- Soft pink flower petals
+- Small white petals
+- Occasional golden decorative petals
+
+The falling petals should have:
+- Different sizes
+- Slightly different speeds
+- Gentle side-to-side movement
+- Natural rotation
+- Random starting positions
+
+They should continuously fall from the top.
+
+However, make the effect elegant and lightweight.
+
+It should look like:
+
+"flower petals are gently raining over the invitation."
+
+Do NOT make it look like snow.
+
+Do NOT make the petals too dense.
+
+The text and Ganpati must remain clearly visible.
+
+========================================================
+MAIN INVITATION
+========================================================
+
+After the opening animation, reveal the main invitation.
+
+IMAGE 1 is the EXACT MAIN DESIGN REFERENCE.
+
+I want the UI to be VERY CLOSE to Image 1.
+
+Do not redesign it into a modern website.
+
+It should look like Image 1 has become interactive.
+
+Preserve the visual hierarchy:
+
+॥ श्री गणेशाय नमः ॥
+
+GANPATI
+
+Welcome
+
+TO
+
+Himani & Nakul's
+
+Ganpati Pooja
+
+Invitation message
+
+Date / Time / Venue
+
+With warm regards
+
+Himani & Nakul
+
+========================================================
+GANPATI IMAGE — EXTREMELY IMPORTANT
+========================================================
+
+IMAGE 3 is the exact Ganpati idol.
+
+USE THE EXACT IMAGE 3.
+
+Do NOT:
+- Generate a new Ganpati
+- Replace it
+- Redraw it
+- Stylize it
+- Cartoonize it
+- Turn it into an AI illustration
+- Change the clothes
+- Change the face
+- Change the ornaments
+- Change the colors
+
+The actual Ganpati must remain exactly as provided.
+
+You may remove its background if required to integrate it into the invitation.
+
+Maintain its original proportions.
+
+Place it in approximately the same location and size relationship as IMAGE 1.
+
+========================================================
+GANPATI EFFECT
+========================================================
+
+Do not animate the Ganpati itself.
+
+Instead, animate the environment around it.
+
+Add:
+
+- Very soft golden halo
+- Subtle glowing light behind Ganpati
+- Tiny golden particles
+- Occasional sparkle
+- Very subtle light rays
+- Gentle floating petals around the idol
+
+The effect should make the Ganpati feel divine without changing the actual image.
+
+========================================================
+INVITATION BACKGROUND
+========================================================
+
+The background is extremely important.
+
+Recreate the look of IMAGE 1:
+
+- Warm ivory / cream paper
+- Antique gold borders
+- Traditional Indian line art
+- Floral decorations
+- Lotus flowers
+- Golden hanging diyas
+- Fine ornamental patterns
+- Elegant arch around Ganpati
+- Traditional Indian invitation-card composition
+
+Do NOT replace this with:
+- plain white
+- beige gradient
+- modern gradient
+- red
+- maroon
+- purple
+- blue
+
+The background must remain visually consistent with IMAGE 1.
+
+========================================================
+TEXT
+========================================================
+
+Top:
+
+"॥ श्री गणेशाय नमः ॥"
+
+Then:
+
+"Welcome"
+
+"TO"
+
+"Himani & Nakul's"
+
+"Ganpati Pooja"
+
+Use elegant calligraphy and luxury serif typography matching IMAGE 1.
+
+The words "Himani & Nakul's" and "Ganpati Pooja" should have strong visual importance.
+
+========================================================
+INVITATION MESSAGE
+========================================================
+
+Use exactly:
+
+"With the blessings of Lord Ganesha,
+we cordially invite you and your family to join us
+for the auspicious Ganpati Pooja.
+
+Your presence will make our celebration
+even more special."
+
+========================================================
+EVENT DETAILS
+========================================================
+
+Date:
+14/09/2026
+Tuesday
+
+Time:
+12:00 PM
+Noon
+
+Venue:
+Our Home
+
+Use elegant traditional icons similar to IMAGE 1.
+
+Keep everything perfectly readable on mobile.
+
+========================================================
+BOTTOM
+========================================================
+
+"With warm regards,"
+
+"Himani & Nakul"
+
+Use elegant calligraphy.
+
+========================================================
+MOBILE-FIRST DESIGN
+========================================================
+
+This website will primarily be shared through WhatsApp.
+
+Therefore MOBILE IS THE #1 PRIORITY.
+
+Design specifically for:
+
+360px
+375px
+390px
+412px
+430px
+
+The invitation must:
+- Fit perfectly on mobile
+- Have no horizontal scrolling
+- Have no overlapping text
+- Have no cropped Ganpati
+- Have readable text
+- Have smooth animations
+- Have touch-friendly interaction
+
+The desktop version should simply scale the invitation elegantly.
+
+Do NOT design desktop first and then squeeze it into mobile.
+
+Design MOBILE FIRST.
+
+========================================================
+PETAL ANIMATION PERFORMANCE
+========================================================
+
+The falling-petal effect MUST work smoothly on phones.
+
+Use lightweight CSS/JavaScript animation.
+
+Do not use heavy 3D rendering.
+
+Limit the number of animated particles.
+
+The animation should remain smooth even on average Android phones.
+
+Respect:
+
+prefers-reduced-motion
+
+so users who disable animations don't get excessive motion.
+
+========================================================
+TRANSITION FROM OPENING TO INVITATION
+========================================================
+
+Do NOT abruptly switch screens.
+
+Use a beautiful transition.
+
+Suggested sequence:
+
+"गणपती बाप्पा मोरया"
+        ↓
+golden shimmer
+        ↓
+petals continue falling
+        ↓
+central invitation elements begin appearing
+        ↓
+Ganpati softly reveals
+        ↓
+full invitation becomes visible
+
+The transition should feel like the opening text is transforming into the invitation.
+
+========================================================
+IMPORTANT VISUAL RULE
+========================================================
+
+The opening and invitation MUST look like they belong to the SAME CARD.
+
+Opening:
+
+CREAM + GOLD + FLORAL + TRADITIONAL
+
+Main invitation:
+
+CREAM + GOLD + FLORAL + TRADITIONAL
+
+There should be NO visual disconnect between them.
+
+Do not use a separate red opening screen.
+
+========================================================
+FINAL FEEL
+========================================================
+
+When someone opens the WhatsApp link, the experience should feel like:
+
+A REAL PREMIUM INDIAN GANPATI INVITATION CARD HAS COME ALIVE.
+
+First they see:
+
+"गणपती बाप्पा मोरया"
+
+in beautiful royal golden Marathi typography.
+
+Then:
+
+🌸 petals gently rain down
+✨ golden particles sparkle
+🥟 elegant modaks appear/fall subtly
+🪔 traditional diyas glow softly
+🌸 floral elements move gently
+🙏 the actual Ganpati image appears with a divine golden glow
+
+Then the complete invitation from IMAGE 1 is revealed.
+
+The final result should be:
+
+ROYAL
+TRADITIONAL
+PREMIUM
+DEVOTIONAL
+ELEGANT
+CHARMING
+FESTIVE
+
+Most importantly:
+
+DO NOT change the actual Ganpati image.
+DO NOT change the core design of IMAGE 1.
+DO NOT create a different background for the opening.
+DO NOT make it look like a generic website.
+
+MAKE IMAGE 1 COME ALIVE.
