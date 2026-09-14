@@ -1,0 +1,8 @@
+{
+  "buildCommand": "pnpm --filter @workspace/ganpati-pooja-invitation build",
+  "outputDirectory": "artifacts/ganpati-pooja-invitation/dist/public",
+  "env": {
+    "BASE_PATH": "/",
+    "PORT": "4173"
+  }
+}
