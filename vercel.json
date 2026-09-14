@@ -1,4 +1,5 @@
 {
+  "framework": "vite",
   "buildCommand": "pnpm --filter @workspace/ganpati-pooja-invitation build",
   "outputDirectory": "artifacts/ganpati-pooja-invitation/dist/public",
   "env": {
